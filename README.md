@@ -74,7 +74,7 @@ cypress/ ├── e2e/ \# Test specifications (feature-based organization)
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/lhepchabz/cypress-automation-project.git
 
 ### 2️⃣ Install dependencies
 
